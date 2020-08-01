@@ -1,7 +1,7 @@
 # SFND 3D Object Tracking
 
 
-<img src="images/course_code_structure.png" width="779" height="414" />
+<img src="course_code_structure.png" width="779" height="414" />
 
 In this project was built upon the feature tracking project. The tasks to complete this project were: 
 1. First, developing a way to match 3D objects over time by using keypoint correspondences. 
