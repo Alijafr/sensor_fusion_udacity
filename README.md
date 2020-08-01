@@ -2,7 +2,7 @@
 
 # Sensor Fusion Self-Driving Car Course
 
-<img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
+<img src="Lidar/media/ObstacleDetectionFPS.gif" width="700" height="400" />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
